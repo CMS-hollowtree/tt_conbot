@@ -1,5 +1,5 @@
 {
-  "name": "tt_bot",
+  "name": "tt_conbot",
   "version": "1.0.0",
   "dependencies": {
     "express": "2.0.0",
