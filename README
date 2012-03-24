@@ -1,8 +1,15 @@
 Turntable.fm Bot
 
-Run instructions:
-  1. edit the keys.js file
+Note: Make sure you have node.js and npm installed on your system and working correctly.
 
-  2. while in the tt_conbot directory run these commands:
+
+Run instructions:
+  1. Edit the keys.js file
+        You will need to know your: 
+          -AUTH and USERID of your bot. 
+          -ROOMID of the default room you want your bot to join.
+          -Twitter OAUTH keys.
+
+  2. While in the tt_conbot directory run these commands:
       npm install -d
       node bot.js
