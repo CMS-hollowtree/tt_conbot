@@ -1,0 +1,9 @@
+Turntable.fm Bot
+
+Requires:
+  oauth,
+  urban,
+  ttapi
+
+Run instructions:
+  node bot.js
