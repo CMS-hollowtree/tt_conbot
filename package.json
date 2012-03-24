@@ -1,0 +1,14 @@
+{
+  "name": "tt_bot",
+  "version": "1.0.0",
+  "dependencies": {
+    "express": "2.0.0",
+    "underscore": "",
+    "ttapi": "",
+    "oauth": "",
+    "request": "",
+    "commander": "",
+    "tweeter": "",
+    "urban": ""
+  }
+}
