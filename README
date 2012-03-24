@@ -1,9 +1,8 @@
 Turntable.fm Bot
 
-Requires:
-  oauth,
-  urban,
-  ttapi
-
 Run instructions:
-  node bot.js
+  1. edit the keys.js file
+
+  2. while in the tt_conbot directory run these commands:
+      npm install -d
+      node bot.js
